@@ -1,2 +1,4 @@
-# Projeto-DIO-APP-Cadastro-Series
-Algoritmo simples de cadastro de séries para praticar conhecimentos de orientação a objetos em  C# &amp; .NET.
+<h1>Projeto - Criando um APP simples de cadastro de séries em .NET</h1>
+
+<H2>- App simples de cadastro de séries em C# com .NET.</h2>
+
